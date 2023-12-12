@@ -1,0 +1,5 @@
+Use NorthWind;
+
+SELECT DISTINCT City
+FROM Employees
+ORDER BY CITY;

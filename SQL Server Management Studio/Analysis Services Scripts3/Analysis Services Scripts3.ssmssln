@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54D695D8-3FC1-47A3-8D60-959ECE458279}") = "Analysis Services Scripts3", "Analysis Services Scripts3\Analysis Services Scripts3.ssmsasproj", "{602830C7-73AF-4193-9EA6-B11A87243D8D}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74BC002C-818E-4FDD-BA70-7F011A0A9355}
+	EndGlobalSection
+EndGlobal

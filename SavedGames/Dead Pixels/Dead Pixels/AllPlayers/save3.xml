@@ -1,0 +1,1372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <housesRaided>true</housesRaided>
+  <directorMode>4</directorMode>
+  <coop>false</coop>
+  <gamerTag>nolonger Used</gamerTag>
+  <dateTime>11/10/2023 1:34:54 AM</dateTime>
+  <streetNo>6</streetNo>
+  <gameHours>9</gameHours>
+  <gameMinutes>8</gameMinutes>
+  <gameSeconds>2</gameSeconds>
+  <difficulty>2</difficulty>
+  <gameplayTime>136425</gameplayTime>
+  <buildingInside>32</buildingInside>
+  <gamePlayState>normal</gamePlayState>
+  <intermissionToDo>true</intermissionToDo>
+  <AI_Director>385572</AI_Director>
+  <judgments>13.17.17.16.15.21.18.21.</judgments>
+  <gameMode>0</gameMode>
+  <BlackAndWhite>false</BlackAndWhite>
+  <RunningZombies>false</RunningZombies>
+  <BigHead>false</BigHead>
+  <hyperCombat>false</hyperCombat>
+  <ColorfulBlood>false</ColorfulBlood>
+  <character>
+    <housesRaided>true</housesRaided>
+    <encumberedSinceStreet>0</encumberedSinceStreet>
+    <encumberedAtBeginingOfstreet>false</encumberedAtBeginingOfstreet>
+    <pos>
+      <X>250</X>
+      <Y>492.7984</Y>
+    </pos>
+    <velocity>
+      <X>4.49986267</X>
+      <Y>0</Y>
+    </velocity>
+    <nearestBuilding>33</nearestBuilding>
+    <zombiesKilled>221</zombiesKilled>
+    <health>150</health>
+    <money>1541</money>
+    <spriteNo>0</spriteNo>
+    <weaponStats>
+      <Item>
+        <Key>
+          <int>41</int>
+        </Key>
+        <Value>
+          <int>29829</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>88</int>
+        </Key>
+        <Value>
+          <int>5414</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>40</int>
+        </Key>
+        <Value>
+          <int>6337</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>89</int>
+        </Key>
+        <Value>
+          <int>12312</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>44</int>
+        </Key>
+        <Value>
+          <int>2104</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>42</int>
+        </Key>
+        <Value>
+          <int>12830</int>
+        </Value>
+      </Item>
+    </weaponStats>
+    <weaponKills>
+      <Item>
+        <Key>
+          <int>41</int>
+        </Key>
+        <Value>
+          <int>97</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>88</int>
+        </Key>
+        <Value>
+          <int>16</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>40</int>
+        </Key>
+        <Value>
+          <int>19</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>89</int>
+        </Key>
+        <Value>
+          <int>20</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>44</int>
+        </Key>
+        <Value>
+          <int>5</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>42</int>
+        </Key>
+        <Value>
+          <int>48</int>
+        </Value>
+      </Item>
+    </weaponKills>
+    <inventory>
+      <Item>
+        <Key>
+          <int>44</int>
+        </Key>
+        <Value>
+          <int>3</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>42</int>
+        </Key>
+        <Value>
+          <int>1</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>74</int>
+        </Key>
+        <Value>
+          <int>1</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>75</int>
+        </Key>
+        <Value>
+          <int>1</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>19</int>
+        </Key>
+        <Value>
+          <int>2</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>28</int>
+        </Key>
+        <Value>
+          <int>33</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>7</int>
+        </Key>
+        <Value>
+          <int>25</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>33</int>
+        </Key>
+        <Value>
+          <int>4</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>30</int>
+        </Key>
+        <Value>
+          <int>2</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>88</int>
+        </Key>
+        <Value>
+          <int>1</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>45</int>
+        </Key>
+        <Value>
+          <int>1</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>37</int>
+        </Key>
+        <Value>
+          <int>1</int>
+        </Value>
+      </Item>
+    </inventory>
+    <equipedWeapon>boltAction2</equipedWeapon>
+    <equipedGrenade>none</equipedGrenade>
+    <equipedItem>smallMedKit</equipedItem>
+    <speed>4.5</speed>
+    <maxHealth>200</maxHealth>
+    <meleeRange>120</meleeRange>
+    <healthLvl>2</healthLvl>
+    <loadLvl>2</loadLvl>
+    <speedLvl>2</speedLvl>
+    <gunSkillLvl>2</gunSkillLvl>
+    <meleeSkillLvl>1</meleeSkillLvl>
+    <traderLvl>1</traderLvl>
+    <luckLvl>1</luckLvl>
+  </character>
+  <character2>
+    <housesRaided>false</housesRaided>
+    <encumberedSinceStreet>0</encumberedSinceStreet>
+    <encumberedAtBeginingOfstreet>false</encumberedAtBeginingOfstreet>
+    <pos>
+      <X>640</X>
+      <Y>360</Y>
+    </pos>
+    <velocity>
+      <X>0</X>
+      <Y>0</Y>
+    </velocity>
+    <nearestBuilding>0</nearestBuilding>
+    <zombiesKilled>0</zombiesKilled>
+    <health>100</health>
+    <money>0</money>
+    <spriteNo>1</spriteNo>
+    <weaponStats />
+    <weaponKills />
+    <inventory>
+      <Item>
+        <Key>
+          <int>12</int>
+        </Key>
+        <Value>
+          <int>2</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>41</int>
+        </Key>
+        <Value>
+          <int>1</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>19</int>
+        </Key>
+        <Value>
+          <int>2</int>
+        </Value>
+      </Item>
+      <Item>
+        <Key>
+          <int>7</int>
+        </Key>
+        <Value>
+          <int>40</int>
+        </Value>
+      </Item>
+    </inventory>
+    <equipedWeapon>Shotgun1</equipedWeapon>
+    <equipedGrenade>grenade</equipedGrenade>
+    <equipedItem>smallMedKit</equipedItem>
+    <speed>4</speed>
+    <maxHealth>100</maxHealth>
+    <meleeRange>120</meleeRange>
+    <healthLvl>1</healthLvl>
+    <loadLvl>1</loadLvl>
+    <speedLvl>1</speedLvl>
+    <gunSkillLvl>1</gunSkillLvl>
+    <meleeSkillLvl>1</meleeSkillLvl>
+    <traderLvl>1</traderLvl>
+    <luckLvl>1</luckLvl>
+  </character2>
+  <streets>
+    <saveStreet xsi:nil="true" />
+    <saveStreet xsi:nil="true" />
+    <saveStreet xsi:nil="true" />
+    <saveStreet xsi:nil="true" />
+    <saveStreet xsi:nil="true" />
+    <saveStreet>
+      <type>normal</type>
+      <length>16355</length>
+      <zombies />
+      <buildings>
+        <saveBuilding>
+          <buildingNo>9</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>14</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>17</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>21</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>25</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>29</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>33</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>1</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>5</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>8</buildingNo>
+          <state>trader</state>
+          <traider>
+            <traiderSpriteNo>15</traiderSpriteNo>
+            <lightFlicker>false</lightFlicker>
+            <discountPercentage>90</discountPercentage>
+            <wanted>infernoRifle</wanted>
+            <inventory>
+              <Item>
+                <Key>
+                  <int>52</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>46</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>91</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>45</int>
+                </Key>
+                <Value>
+                  <int>3</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>42</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>89</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>40</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>29</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>23</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>20</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>10</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>38</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>33</int>
+                </Key>
+                <Value>
+                  <int>3</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>24</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>22</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+            </inventory>
+          </traider>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>13</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>16</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>20</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>24</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>28</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>32</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>0</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>4</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>true</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>7</buildingNo>
+          <state>normal</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>11</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>15</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>19</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>24</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>27</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>31</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>34</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>3</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>6</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>10</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>14</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>18</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>23</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>26</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>30</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>51</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+      </buildings>
+      <streetname>Dixon st.</streetname>
+      <streetNo>5</streetNo>
+      <lampposts>false</lampposts>
+      <telegraphpoles>false</telegraphpoles>
+      <baracades>true</baracades>
+      <barriers>false</barriers>
+      <plants>false</plants>
+    </saveStreet>
+    <saveStreet>
+      <type>mall</type>
+      <length>15040</length>
+      <zombies />
+      <buildings>
+        <saveBuilding>
+          <buildingNo>40</buildingNo>
+          <state>boardedUp</state>
+          <traider>
+            <traiderSpriteNo>12</traiderSpriteNo>
+            <lightFlicker>false</lightFlicker>
+            <discountPercentage>103</discountPercentage>
+            <wanted>phone</wanted>
+            <inventory>
+              <Item>
+                <Key>
+                  <int>1</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>29</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>20</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>10</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>19</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>25</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>13</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>14</int>
+                </Key>
+                <Value>
+                  <int>3</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>12</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>88</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>32</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>89</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>42</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>23</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>56</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>31</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>2</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>45</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>46</int>
+                </Key>
+                <Value>
+                  <int>3</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>44</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+            </inventory>
+          </traider>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>37</buildingNo>
+          <state>normal</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32>
+              <Item>
+                <Key>
+                  <int>29</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+            </SerializableDictionaryOfInt32Int32>
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>35</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>8</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>43</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>41</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>38</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>36</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>9</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>59</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>42</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>39</buildingNo>
+          <state>normal</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32>
+              <Item>
+                <Key>
+                  <int>42</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+            </SerializableDictionaryOfInt32Int32>
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>37</buildingNo>
+          <state>normal</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32>
+              <Item>
+                <Key>
+                  <int>33</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>89</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+            </SerializableDictionaryOfInt32Int32>
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>10</buildingNo>
+          <state>normal</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32>
+              <Item>
+                <Key>
+                  <int>31</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>46</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>45</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+            </SerializableDictionaryOfInt32Int32>
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>8</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>43</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>40</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>38</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>35</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>9</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>44</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>41</buildingNo>
+          <state>raided</state>
+          <alarmed>true</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>39</buildingNo>
+          <state>raided</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>36</buildingNo>
+          <state>normal</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32>
+              <Item>
+                <Key>
+                  <int>34</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>25</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+            </SerializableDictionaryOfInt32Int32>
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>10</buildingNo>
+          <state>normal</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32>
+              <Item>
+                <Key>
+                  <int>88</int>
+                </Key>
+                <Value>
+                  <int>1</int>
+                </Value>
+              </Item>
+              <Item>
+                <Key>
+                  <int>33</int>
+                </Key>
+                <Value>
+                  <int>2</int>
+                </Value>
+              </Item>
+            </SerializableDictionaryOfInt32Int32>
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>59</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>42</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>40</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>37</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>35</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+        <saveBuilding>
+          <buildingNo>8</buildingNo>
+          <state>boardedUp</state>
+          <alarmed>false</alarmed>
+          <inventory>
+            <SerializableDictionaryOfInt32Int32 />
+            <SerializableDictionaryOfInt32Int32 />
+          </inventory>
+        </saveBuilding>
+      </buildings>
+      <streetname>Gunn street mall</streetname>
+      <streetNo>6</streetNo>
+      <lampposts>false</lampposts>
+      <telegraphpoles>false</telegraphpoles>
+      <baracades>false</baracades>
+      <barriers>false</barriers>
+      <plants>false</plants>
+    </saveStreet>
+  </streets>
+  <streetTypes>
+    <StreetType>tutorial</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>tunnel</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>mall</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>tunnel</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>mall</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>tunnel</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>tunnel</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>mall</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>mall</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>tunnel</StreetType>
+    <StreetType>normal</StreetType>
+    <StreetType>last</StreetType>
+  </streetTypes>
+</SaveFile>

@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54D695D8-3FC1-47A3-8D60-959ECE458279}") = "Analysis Services Scripts2", "Analysis Services Scripts2\Analysis Services Scripts2.ssmsasproj", "{1DEC1530-9333-4CDC-89B7-EF1101C7ADF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E3E0BF-7282-4F66-B737-F2822F255B2D}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C9B907-5E0F-4397-9406-D3866EAA398F}
+	EndGlobalSection
+EndGlobal
